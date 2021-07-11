@@ -1,1 +1,0 @@
-// gitignore 적용되는지 test
